@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AWS_S3</string>
+    <string name="image_description">Image Description</string>
+    <string name="connectionError">No AWS-S3 connection. Test connectivity and user keys</string>
+</resources>
